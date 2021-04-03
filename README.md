@@ -1,12 +1,14 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# chrisP's Auto-Rice Scripts (CARS)
+
+My fork of LARBS. Needed for my dotfiles to properly install
 
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
-sh larbs.sh
+chmod +x cars.sh
+sh cars.sh
 ```
 
 That's it.
