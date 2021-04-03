@@ -1,4 +1,4 @@
-# chrisP's Auto-Rice Scripts (CARS)
+# chrisP's Helpful Auto-setup of Dotfiles (CHAD)
 
 My fork of LARBS. Needed for my dotfiles to properly install
 
